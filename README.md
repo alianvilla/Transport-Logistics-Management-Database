@@ -41,7 +41,7 @@ The project includes a full schema, sample data, advanced SQL queries, stored pr
 
 \## Features  
 
-\### \*\*✔ Relational Database Design\*\*
+\### \*\*Relational Database Design\*\*
 
 \- Fully normalized schema  
 
